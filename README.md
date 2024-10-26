@@ -43,7 +43,13 @@ tic-tac-toe/
 
 - **`IsBoardFull(board *Board) bool`**: 
   - Checks if the board is completely filled, indicating a tie.
+## Demo interface 
 
+### Start of the game 
+ ![pic](Demo-pictures/start-game.png)
+
+ ### End of the Game
+  ![pic](Demo-pictures/end-game.png)
 ### AI Functions
 
 - **`Minimax(board *Board, depth int, isMaximizing bool) int`**:
